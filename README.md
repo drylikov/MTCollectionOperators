@@ -6,6 +6,7 @@
 # MTCollectionOperators
 
 
+
 A simple collection of helper methods added to NSSet and NSArray to do inline
 intersection, subtraction, and mapping.
 
