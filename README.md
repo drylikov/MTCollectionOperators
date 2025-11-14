@@ -12,6 +12,7 @@
 A simple collection of helper methods added to NSSet and NSArray to do inline
 intersection, subtraction, and mapping.
 
+
 ## Usage
 
 Usage is straightforward; see the header files for method details.
